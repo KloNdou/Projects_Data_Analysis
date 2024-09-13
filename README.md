@@ -9,6 +9,6 @@ Extracted insights on user behavior, transaction patterns, and marketing ROI acr
 Utilized pandas in Python to merge and clean datasets for marketing budget and sales analysis. 
 Computed correlation matrix to quantify relationship between variables, demonstrating proficiency in data manipulation and statistical interpretation.
 
-## Python - Significance [tests https://github.com/KloNdou/Python_Significance_test_.git](url)
+## Python - Significance [gh repo clone KloNdou/Python_Significance_test_](url)
 Analyzed disease-related data using Python libraries Pandas, NumPy, and SciPy, processing information on cases of disease in the whole country and revealing correlations with factors such as age, gender, month etc.
 Conducted statistical analyses including descriptive statistics, correlation studies, and data visualization to identify patterns in disease occurrence over a specified time period.
