@@ -1,7 +1,7 @@
 # Link Projects
 Find in the Readme file the links for projects.
 
-## PBI Data Cleaning, Modeling & Analyzing : [PBI_Reports](https://github.com/KloNdou/PBI_Reports.git)
+## PBI Data Cleaning, Modeling & Analyzing : [PBI_Reports.git](https://github.com/KloNdou/PBI-Reports-Clients-.git)
 Analyzed a global online store's dataset, focusing on cleaning, modeling, and visualizing data to provide actionable insights. 
 Based on the analysis, I recommended strategies to enhance customer retention and optimize marketing campaigns.
 
