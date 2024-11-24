@@ -1,5 +1,5 @@
-# Link Projects
-Review differnet project. Click the links and view each project in detail
+# Project links
+Click the links and view each project in details.
 
 ## PBI Data Cleaning, Modeling & Analyzing : [PBI_Reports.git](https://github.com/KloNdou/PBI-Reports-Clients-.git)
 Analyzed a global online store's dataset, focusing on cleaning, modeling, and visualizing data to provide actionable insights. 
